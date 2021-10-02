@@ -60,3 +60,8 @@ pip install opencc
 - src_vocab_size
 - opt.answer == 'enc'表示构建模型的时候带有答案编码器answer_encoder
 
+---
+## Acknowledgement 
+
+我是NLP小白，刚接触这一块内容只有一个月，还有很多的东西是我不知道的，如果有同行的小伙伴发现代码实现有什么问题
+欢迎参与讨论~

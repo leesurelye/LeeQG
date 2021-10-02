@@ -10,6 +10,8 @@ from transformers import AutoTokenizer
 special_tokens = {
     "eos_token": '[EOS]',
     "bos_token": '[BOS]',
+    "boa_token": '[BOA]',  # begin of answer
+    "eoa_token": '[EOA]'  # end of answer
 
 }
 
